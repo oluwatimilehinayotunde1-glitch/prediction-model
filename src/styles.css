@@ -1,0 +1,112 @@
+@import "tailwindcss" source(none);
+@source "../src";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+/*
+ * Dark instrument-panel design system: deep navy surfaces, an indigo
+ * primary for interactive controls, and a traffic-light categorical
+ * palette (red -> green) for performance bands so risk reads at a
+ * glance against the dark background.
+ * All colors are oklch tokens. Never hardcode colors in components.
+ */
+
+@theme inline {
+  --radius-sm: 8px;
+  --radius-md: 10px;
+  --radius-lg: 14px;
+  --radius-xl: 18px;
+  --font-display: "Sora", "Inter", system-ui, sans-serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-band-excellent: var(--band-excellent);
+  --color-band-good: var(--band-good);
+  --color-band-satisfactory: var(--band-satisfactory);
+  --color-band-sufficient: var(--band-sufficient);
+  --color-band-fail: var(--band-fail);
+}
+
+:root {
+  --radius: 12px;
+  --background: oklch(0.19 0.025 265); /* #0B0F1C deep navy */
+  --foreground: oklch(0.95 0.006 260); /* #EDEFF5 near-white */
+  --card: oklch(0.23 0.028 265); /* #141A2B raised navy panel */
+  --card-foreground: oklch(0.95 0.006 260);
+  --popover: oklch(0.23 0.028 265);
+  --popover-foreground: oklch(0.95 0.006 260);
+  --primary: oklch(0.62 0.19 265); /* #4C6EF5 indigo */
+  --primary-foreground: oklch(0.98 0.006 260);
+  --secondary: oklch(0.28 0.03 265); /* #1C2338 */
+  --secondary-foreground: oklch(0.9 0.006 260);
+  --muted: oklch(0.28 0.03 265);
+  --muted-foreground: oklch(0.68 0.02 260); /* #9AA3BD */
+  --accent: oklch(0.3 0.06 265);
+  --accent-foreground: oklch(0.85 0.03 260);
+  --destructive: oklch(0.6 0.21 25); /* #F03E3E */
+  --destructive-foreground: oklch(0.98 0 0);
+  --border: oklch(0.33 0.03 265); /* #262E48 */
+  --input: oklch(0.3 0.03 265);
+  --ring: oklch(0.62 0.19 265);
+
+  /* Traffic-light categorical palette, worst to best, tuned for
+     contrast on the dark navy background. Six bands = Nigerian
+     university CGPA classification. */
+  --band-fail: oklch(0.63 0.21 25); /* #F03E3E */
+  --band-sufficient: oklch(0.72 0.17 55); /* #F2A54A */
+  --band-satisfactory: oklch(0.82 0.16 90); /* #F5D34C */
+  --band-good: oklch(0.67 0.19 250); /* #5C8DFA */
+  --band-excellent: oklch(0.72 0.17 155); /* #3FCE72 */
+}
+
+@layer base {
+  * {
+    border-color: var(--color-border);
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    font-feature-settings: "kern", "liga";
+  }
+
+  h1,
+  h2,
+  h3 {
+    font-family: var(--font-display);
+  }
+}
+
+@utility card-surface {
+  background-color: var(--color-card);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius-lg);
+  box-shadow: 0 1px 2px oklch(0.05 0.02 265 / 0.35), 0 4px 16px oklch(0.05 0.02 265 / 0.25);
+}
+
+@utility kicker {
+  font-family: var(--font-sans);
+  font-size: 0.75rem;
+  letter-spacing: 0.02em;
+  font-weight: 600;
+  color: var(--color-muted-foreground);
+}

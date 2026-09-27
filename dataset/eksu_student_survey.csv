@@ -1,0 +1,73 @@
+timestamp,level,cgpa,attendance_pct,carryover_courses,study_hours_per_week,submits_on_time,has_study_resources,has_major_commitment
+2026-09-04 08:52:54,400 Level,3.99,50-69%,1,Less than 5 hours,Always,Yes,Yes
+2026-09-04 08:55:07,400 Level,3.7,90-100%,0,Less than 5 hours,Always,Yes,No
+2026-09-04 08:57:03,400 Level,2.95,70-89%,2,More than 20 hours,Always,Yes,No
+2026-09-04 08:58:49,400 Level,4.0,90-100%,0,Less than 5 hours,Always,Partially,No
+2026-09-04 09:02:13,400 Level,3.7,70-89%,0,11-20 hours,Always,No,No
+2026-09-04 09:02:58,400 Level,3.98,70-89%,0,Less than 5 hours,Always,Yes,No
+2026-09-04 09:26:18,400 Level,3.87,70-89%,2,Less than 5 hours,Always,Partially,No
+2026-09-04 09:27:55,300 Level,3.96,90-100%,0,More than 20 hours,Always,Yes,Yes
+2026-09-04 09:31:33,300 Level,3.1,70-89%,0,11-20 hours,Often,Yes,No
+2026-09-04 09:32:26,400 Level,2.29,90-100%,0,Less than 5 hours,Always,Yes,Yes
+2026-09-04 11:51:29,400 Level,3.89,50-69%,0,Less than 5 hours,Always,No,No
+2026-09-04 12:41:56,400 Level,4.42,90-100%,0,Less than 5 hours,Always,Partially,Yes
+2026-09-04 13:23:46,200 Level,3.61,70-89%,0,5-10 hours,Always,Partially,No
+2026-09-04 15:43:40,400 Level,5.0,90-100%,0,11-20 hours,Always,Yes,Yes
+2026-09-05 09:22:30,400 Level,3.32,90-100%,0,Less than 5 hours,Always,Yes,Yes
+2026-09-05 09:25:52,400 Level,3.5,50-69%,0,Less than 5 hours,Always,Yes,Yes
+2026-09-05 11:13:42,400 Level,3.5,Below 50%,0,5-10 hours,Always,Yes,No
+2026-09-05 11:17:28,400 Level,2.98,90-100%,0,Less than 5 hours,Always,Yes,No
+2026-09-05 12:53:49,400 Level,4.33,90-100%,0,Less than 5 hours,Always,Yes,No
+2026-09-05 17:01:58,400 Level,3.65,90-100%,0,5-10 hours,Always,Yes,Yes
+2026-09-05 18:41:35,400 Level,3.87,90-100%,0,More than 20 hours,Often,Yes,No
+2026-09-05 18:46:13,400 Level,3.96,90-100%,1,Less than 5 hours,Always,Partially,Yes
+2026-09-07 08:20:35,300 Level,4.24,90-100%,0,5-10 hours,Always,Yes,Yes
+2026-09-07 09:06:50,200 Level,4.09,70-89%,0,More than 20 hours,Always,Yes,Yes
+2026-09-07 09:08:01,500 Level,4.45,70-89%,0,11-20 hours,Always,Yes,Yes
+2026-09-07 09:27:08,200 Level,4.2,90-100%,0,Less than 5 hours,Always,Partially,Yes
+2026-09-07 09:27:52,300 Level,4.0,70-89%,0,Less than 5 hours,Always,Partially,No
+2026-09-07 09:55:16,200 Level,3.98,70-89%,0,11-20 hours,Always,Yes,No
+2026-09-07 11:11:23,300 Level,3.5,70-89%,0,5-10 hours,Always,Yes,No
+2026-09-07 11:15:02,400 Level,3.7,90-100%,0,5-10 hours,Always,Partially,No
+2026-09-07 11:16:14,300 Level,3.47,70-89%,2,5-10 hours,Always,Yes,No
+2026-09-07 11:17:35,300 Level,3.5,70-89%,0,11-20 hours,Always,Yes,No
+2026-09-07 11:35:32,400 Level,3.49,70-89%,0,Less than 5 hours,Always,Partially,No
+2026-09-07 11:56:26,400 Level,3.6,70-89%,0,Less than 5 hours,Always,Partially,No
+2026-09-07 12:01:36,200 Level,3.13,70-89%,0,Less than 5 hours,Always,Partially,Yes
+2026-09-07 12:11:08,200 Level,3.7,90-100%,0,Less than 5 hours,Always,Partially,No
+2026-09-07 12:34:33,200 Level,3.0,90-100%,1,5-10 hours,Always,Yes,Yes
+2026-09-07 13:05:03,200 Level,4.0,70-89%,0,5-10 hours,Often,No,No
+2026-09-07 13:20:31,400 Level,3.86,90-100%,0,5-10 hours,Always,Yes,No
+2026-09-07 14:42:50,400 Level,4.35,90-100%,0,5-10 hours,Often,Partially,Yes
+2026-09-07 14:48:01,500 Level,3.02,70-89%,0,5-10 hours,Always,Partially,Yes
+2026-09-07 15:42:04,200 Level,3.19,70-89%,0,Less than 5 hours,Always,Yes,No
+2026-09-07 15:44:25,400 Level,3.82,70-89%,0,Less than 5 hours,Always,Partially,No
+2026-09-07 17:34:42,300 Level,3.7,90-100%,0,Less than 5 hours,Always,Partially,No
+2026-09-07 18:28:42,100 Level,3.0,70-89%,0,5-10 hours,Always,Partially,No
+2026-09-07 20:02:04,500 Level,4.71,90-100%,0,Less than 5 hours,Always,Yes,Yes
+2026-09-07 23:42:25,200 Level,4.04,90-100%,0,5-10 hours,Always,Yes,No
+2026-09-08 19:03:40,200 Level,4.67,90-100%,0,Less than 5 hours,Always,Yes,No
+2026-09-09 08:22:09,400 Level,3.42,70-89%,0,5-10 hours,Always,Yes,Yes
+2026-09-09 08:24:07,300 Level,4.32,90-100%,0,11-20 hours,Always,Yes,No
+2026-09-09 08:24:43,300 Level,4.32,90-100%,0,11-20 hours,Always,Yes,No
+2026-09-09 08:25:26,300 Level,4.32,90-100%,0,11-20 hours,Always,Yes,No
+2026-09-09 08:25:57,300 Level,4.32,90-100%,0,11-20 hours,Always,Yes,No
+2026-09-09 08:32:00,200 Level,3.48,70-89%,0,Less than 5 hours,Sometimes,Partially,Yes
+2026-09-09 08:33:13,300 Level,3.06,50-69%,0,Less than 5 hours,Rarely,No,No
+2026-09-09 08:34:29,400 Level,2.56,Below 50%,2,Less than 5 hours,Rarely,No,Yes
+2026-09-09 08:43:05,100 Level,3.75,90-100%,0,5-10 hours,Always,Yes,No
+2026-09-09 08:43:58,400 Level,4.05,70-89%,0,11-20 hours,Always,Yes,No
+2026-09-09 09:24:24,500 Level,4.26,90-100%,0,5-10 hours,Always,Yes,Yes
+2026-09-09 09:50:25,200 Level,2.62,50-69%,3,Less than 5 hours,Sometimes,No,Yes
+2026-09-09 09:52:51,300 Level,2.12,Below 50%,4,Less than 5 hours,Rarely,No,No
+2026-09-09 10:01:02,400 Level,3.91,90-100%,0,11-20 hours,Always,Yes,No
+2026-09-09 10:34:58,400 Level,3.0,50-69%,3,Less than 5 hours,Always,Yes,No
+2026-09-09 10:51:05,400 Level,2.32,70-89%,1,Less than 5 hours,Always,Yes,No
+2026-09-09 10:59:45,400 Level,3.7,90-100%,0,5-10 hours,Always,No,No
+2026-09-09 13:01:14,300 Level,2.7,70-89%,2,Less than 5 hours,Sometimes,Yes,Yes
+2026-09-09 17:06:05,100 Level,2.89,50-69%,1,Less than 5 hours,Sometimes,Partially,Yes
+2026-09-10 09:45:27,100 Level,2.45,50-69%,1,11-20 hours,Always,Yes,Yes
+2026-09-10 10:00:10,100 Level,2.88,70-89%,1,5-10 hours,Often,Yes,Yes
+2026-09-10 13:16:09,400 Level,3.45,70-89%,1,Less than 5 hours,Always,Yes,No
+2026-09-10 13:37:07,300 Level,4.2,70-89%,0,Less than 5 hours,Always,Yes,Yes
+2026-09-10 14:00:00,300 Level,1.2,Below 50%,5,Less than 5 hours,Rarely,No,Yes

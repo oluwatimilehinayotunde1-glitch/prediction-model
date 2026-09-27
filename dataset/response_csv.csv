@@ -1,0 +1,41 @@
+timestamp,level,cgpa,attendance_pct,carryover_courses,study_hours_per_week,submits_on_time,has_study_resources,has_major_commitment
+2026/09/04 8:52:54 AM GMT+1,400 Level,3.99,50-69%,1,Less than 5 hours,Always,Yes,Yes
+2026/09/04 8:57:03 AM GMT+1,400 Level,2.95,70-89%,2,More than 20 hours,Always,Yes,No
+2026/09/04 8:58:49 AM GMT+1,400 Level,4.0,90-100%,0,Less than 5 hours,Always,Partially,No
+2026/09/04 9:02:13 AM GMT+1,400 Level,3.7,70-89%,0,11-20 hours,Always,No,No
+2026/09/04 9:02:58 AM GMT+1,400 Level,3.98,70-89%,0,Less than 5 hours,Always,Yes,No
+2026/09/04 9:26:18 AM GMT+1,400 Level,3.87,70-89%,2,Less than 5 hours,Always,Partially,No
+2026/09/04 9:27:55 AM GMT+1,300 Level,3.96,90-100%,0,More than 20 hours,Always,Yes,Yes
+2026/09/04 9:31:33 AM GMT+1,300 Level,3.1,70-89%,0,11-20 hours,Often,Yes,No
+2026/09/04 9:32:26 AM GMT+1,400 Level,2.29,90-100%,0,Less than 5 hours,Always,Yes,Yes
+2026/09/04 11:51:29 AM GMT+1,400 Level,3.89,50-69%,0,Less than 5 hours,Always,No,No
+2026/09/04 12:41:56 PM GMT+1,400 Level,4.42,90-100%,0,Less than 5 hours,Always,Partially,Yes
+2026/09/04 1:23:46 PM GMT+1,200 Level,3.61,70-89%,0,5-10 hours,Always,Partially,No
+2026/09/04 3:43:40 PM GMT+1,400 Level,5.0,90-100%,0,11-20 hours,Always,Yes,Yes
+2026/09/05 9:22:30 AM GMT+1,400 Level,3.32,90-100%,0,Less than 5 hours,Always,Yes,Yes
+2026/09/05 9:25:52 AM GMT+1,400 Level,3.5,50-69%,0,Less than 5 hours,Always,Yes,Yes
+2026/09/05 11:13:42 AM GMT+1,400 Level,3.5,Below 50%,0,5-10 hours,Always,Yes,No
+2026/09/05 12:53:49 PM GMT+1,400 Level,4.33,90-100%,0,Less than 5 hours,Always,Yes,No
+2026/09/05 5:01:58 PM GMT+1,400 Level,3.65,90-100%,0,5-10 hours,Always,Yes,Yes
+2026/09/05 6:41:35 PM GMT+1,400 Level,3.87,90-100%,0,More than 20 hours,Often,Yes,No
+2026/09/05 6:46:13 PM GMT+1,400 Level,3.96,90-100%,1,Less than 5 hours,Always,Partially,Yes
+2026/09/07 8:20:35 AM GMT+1,300 Level,4.24,90-100%,0,5-10 hours,Always,Yes,Yes
+2026/09/07 9:06:50 AM GMT+1,200 Level,4.09,70-89%,0,More than 20 hours,Always,Yes,Yes
+2026/09/07 9:08:01 AM GMT+1,500 Level,4.45,70-89%,0,11-20 hours,Always,Yes,Yes
+2026/09/07 9:27:08 AM GMT+1,200 Level,4.2,90-100%,0,Less than 5 hours,Always,Partially,Yes
+2026/09/07 9:27:52 AM GMT+1,300 Level,4.0,70-89%,0,Less than 5 hours,Always,Partially,No
+2026/09/07 9:55:16 AM GMT+1,200 Level,3.98,70-89%,0,11-20 hours,Always,Yes,No
+2026/09/07 11:11:23 AM GMT+1,300 Level,3.5,70-89%,0,5-10 hours,Always,Yes,No
+2026/09/07 11:15:02 AM GMT+1,400 Level,3.7,90-100%,0,5-10 hours,Always,Partially,No
+2026/09/07 11:16:14 AM GMT+1,300 Level,3.47,70-89%,2,5-10 hours,Always,Yes,No
+2026/09/07 11:17:35 AM GMT+1,300 Level,3.5,70-89%,0,11-20 hours,Always,Yes,No
+2026/09/07 11:35:32 AM GMT+1,400 Level,3.49,70-89%,0,Less than 5 hours,Always,Partially,No
+2026/09/07 11:56:26 AM GMT+1,400 Level,3.6,70-89%,0,Less than 5 hours,Always,Partially,No
+2026/09/07 12:01:36 PM GMT+1,200 Level,3.13,70-89%,0,Less than 5 hours,Always,Partially,Yes
+2026/09/07 12:34:33 PM GMT+1,200 Level,3.0,90-100%,1,5-10 hours,Always,Yes,Yes
+2026/09/07 1:05:03 PM GMT+1,200 Level,4.0,70-89%,0,5-10 hours,Often,No,No
+2026/09/07 1:20:31 PM GMT+1,400 Level,3.86,90-100%,0,5-10 hours,Always,Yes,No
+2026/09/07 2:42:50 PM GMT+1,400 Level,4.35,90-100%,0,5-10 hours,Often,Partially,Yes
+2026/09/07 2:48:01 PM GMT+1,500 Level,3.02,70-89%,0,5-10 hours,Always,Partially,Yes
+2026/09/07 3:42:04 PM GMT+1,200 Level,3.19,70-89%,0,Less than 5 hours,Always,Yes,No
+2026/09/07 3:44:25 PM GMT+1,400 Level,3.82,70-89%,0,Less than 5 hours,Always,Partially,No
